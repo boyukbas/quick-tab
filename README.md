@@ -1,5 +1,6 @@
 # quick-tab
 Chrome extension for quickly opening key based pages
+https://chrome.google.com/webstore/detail/quick-tab/bmokelpnidlhkfdoglnieojfdeblcebd/related?hl=en-GB
 
 Quick Tab is designed for quickly navigating to a web page where only some ID number is changing in the URL.
 
